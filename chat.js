@@ -10,6 +10,6 @@ if (idade>=18 && idade<21) {
 else if (idade>=21) {
     console.log("Pode entrar e tbm pode beber")
 }
-else { 
+else  { 
     console.log ("Não pode entrar BB")
 }
